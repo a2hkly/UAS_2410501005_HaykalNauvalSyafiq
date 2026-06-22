@@ -1,8 +1,8 @@
 # Tugas UAS DataBase Endemik🐾🌿
 
-EndemikDB adalah aplikasi Android berbasis Java yang dirancang untuk mengenalkan keanekaragaman hayati endemik di Indonesia. Aplikasi ini mengintegrasikan pemanggilan data dari REST API dan menyimpannya ke dalam basis data lokal (Offline-First) untuk memisahkan kategori flora dan fauna berdasarkan regionnya.
+EndemikDB adalah aplikasi Android berbasis Java yang dirancang untuk mengenalkan keanekaragaman hayati endemik di Indonesia. Aplikasi ini mengintegrasikan pemanggilan data dari REST API dan menyimpannya ke dalam basis data lokal (Offline-First).
 
-## ✨ Fitur Utama
+## ✨ Fitur
 
 * **Sinkronisasi API & Database Lokal:** Mengambil data JSON dari API dan menyimpannya secara otomatis ke dalam **Room Database** pada saat aplikasi pertama kali dibuka (Splash Screen).
 * **Kategorisasi Dinamis:** Memisahkan data menjadi dua kategori utama (Hewan dan Tumbuhan) menggunakan arsitektur Fragment.
