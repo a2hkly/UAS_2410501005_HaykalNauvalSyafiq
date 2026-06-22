@@ -1,4 +1,4 @@
-# EndemikDB 🐾🌿
+# Tugas UAS DataBase Endemik🐾🌿
 
 EndemikDB adalah aplikasi Android berbasis Java yang dirancang untuk mengenalkan keanekaragaman hayati endemik di Indonesia. Aplikasi ini mengintegrasikan pemanggilan data dari REST API dan menyimpannya ke dalam basis data lokal (Offline-First) untuk memisahkan kategori flora dan fauna berdasarkan regionnya.
 
@@ -28,8 +28,14 @@ EndemikDB adalah aplikasi Android berbasis Java yang dirancang untuk mengenalkan
 | :---: | :---: | :---: | :---: |
 | <img src="link_gambar_hewan_light.png" width="200"/> | <img src="link_gambar_tumbuhan_dark.png" width="200"/> | <img src="link_gambar_detail.png" width="200"/> | <img src="link_gambar_favorit.png" width="200"/> |
 
-## 🚀 Cara Menjalankan Proyek
+## 👨‍💻 Profil Pengembang
 
-1. **Clone repositori ini** ke mesin lokal kamu:
-   ```bash
-   git clone [https://github.com/username_kamu/EndemikDB.git](https://github.com/username_kamu/EndemikDB.git)
+<div align="center">
+  <img src="link_atau_path_foto_kamu.jpg" width="150" style="border-radius: 50%; alt="Foto Haikal"/>
+  
+  **Haykal Nauval Syafiq**
+  
+  **NIM:** 2410501005
+  **Program Studi:** D3 Sistem Informasi  
+  **Universitas:** Universitas Pembangunan Nasional "Veteran" Jakarta
+</div>
