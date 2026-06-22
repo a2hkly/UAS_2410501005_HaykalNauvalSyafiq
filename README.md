@@ -22,11 +22,14 @@ EndemikDB adalah aplikasi Android berbasis Java yang dirancang untuk mengenalkan
 
 ## 📸 *Screenshots* Aplikasi
 
-> **Catatan:** Tambahkan *link* atau *path* gambar kamu di sini.
 
-| Home (Hewan) - Dark Mode | Home (Tumbuhan) - Light Mode | Halaman Detail | Halaman Favorit |
-| :---: | :---: | :---: | :---: |
-| <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/b074fc8e3c1b06258cd1df734606842d14bd2c77/foto/image.png" width="200"/> | <img src="link_gambar_tumbuhan_dark.png" width="200"/> | <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/b074fc8e3c1b06258cd1df734606842d14bd2c77/foto/foto2.jpeg" width="200"/> | <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/b074fc8e3c1b06258cd1df734606842d14bd2c77/foto/foto4.jpeg" width="200"/> |
+| Home (Hewan) - Dark Mode | Home (Tumbuhan) - Light Mode | Halaman Detail |
+| :---: | :---: | :---: |
+| <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/b074fc8e3c1b06258cd1df734606842d14bd2c77/foto/image.png" width="200"/> | <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/7193010608eb99578ee95dbf93f08f1a1961b442/foto/Screenshot%202026-06-22%20145944.png" width="200"/> | <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/b074fc8e3c1b06258cd1df734606842d14bd2c77/foto/foto2.jpeg" width="200"/> | 
+
+| Halaman Favorit | Halaman Pencarian | Splash Screen | 
+| :---: | :---: | :---: | 
+| <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/7193010608eb99578ee95dbf93f08f1a1961b442/foto/foto4.jpeg" width="200"/> | <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/7193010608eb99578ee95dbf93f08f1a1961b442/foto/foto3.jpeg" width="200"/> | <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/f3bee29d8438c29c21a599c7c01204303ed04dd3/foto/Screenshot%202026-06-22%20150710.png" width="200"/> | 
 
 ## 👨‍💻 Profil Pengembang
 
