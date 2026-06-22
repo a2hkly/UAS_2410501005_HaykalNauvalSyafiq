@@ -24,9 +24,9 @@ EndemikDB adalah aplikasi Android berbasis Java yang dirancang untuk mengenalkan
 
 > **Catatan:** Tambahkan *link* atau *path* gambar kamu di sini.
 
-| Home (Hewan) - Light Mode | Home (Tumbuhan) - Dark Mode | Halaman Detail | Halaman Favorit |
+| Home (Hewan) - Dark Mode | Home (Tumbuhan) - Light Mode | Halaman Detail | Halaman Favorit |
 | :---: | :---: | :---: | :---: |
-| <img src="link_gambar_hewan_light.png" width="200"/> | <img src="link_gambar_tumbuhan_dark.png" width="200"/> | <img src="link_gambar_detail.png" width="200"/> | <img src="link_gambar_favorit.png" width="200"/> |
+| <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/b074fc8e3c1b06258cd1df734606842d14bd2c77/foto/image.png" width="200"/> | <img src="link_gambar_tumbuhan_dark.png" width="200"/> | <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/b074fc8e3c1b06258cd1df734606842d14bd2c77/foto/foto2.jpeg" width="200"/> | <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/b074fc8e3c1b06258cd1df734606842d14bd2c77/foto/foto4.jpeg" width="200"/> |
 
 ## 👨‍💻 Profil Pengembang
 
