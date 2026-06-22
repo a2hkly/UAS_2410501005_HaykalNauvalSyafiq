@@ -31,7 +31,7 @@ EndemikDB adalah aplikasi Android berbasis Java yang dirancang untuk mengenalkan
 ## 👨‍💻 Profil Pengembang
 
 <div align="center">
-  <img src="link_atau_path_foto_kamu.jpg" width="150" style="border-radius: 50%; alt="Foto Haikal"/>
+  <img src="foto.jpeg" width="150" style="border-radius: 50%; alt="Foto Haikal"/>
   
   **Haykal Nauval Syafiq**
   
