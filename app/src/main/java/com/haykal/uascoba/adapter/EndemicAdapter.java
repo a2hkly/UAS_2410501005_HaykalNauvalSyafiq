@@ -7,6 +7,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
+import com.haykal.uascoba.R;
 import com.haykal.uascoba.databinding.ItemEndemicBinding;
 import com.haykal.uascoba.model.EndemicEntity;
 
@@ -60,6 +61,8 @@ public class EndemicAdapter extends RecyclerView.Adapter<EndemicAdapter.ViewHold
             binding.tvName.setText(endemic.getNama());
             Glide.with(itemView.getContext())
                     .load(endemic.getFoto())
+                    .placeholder(R.drawable.baseline_broken_image_24) // Gambar saat loading
+                    .error(R.drawable.baseline_broken_image_24)    // Gambar jika error/tidak muncul
                     .into(binding.ivEndemic);
             itemView.setOnClickListener(v -> listener.onItemClick(endemic));
         }
