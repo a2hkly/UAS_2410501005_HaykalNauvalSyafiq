@@ -1,8 +1,8 @@
-# EndemikDB 🐾🌿
+# Tugas UAS DataBase Endemik🐾🌿
 
-EndemikDB adalah aplikasi Android berbasis Java yang dirancang untuk mengenalkan keanekaragaman hayati endemik di Indonesia. Aplikasi ini mengintegrasikan pemanggilan data dari REST API dan menyimpannya ke dalam basis data lokal (Offline-First) untuk memisahkan kategori flora dan fauna berdasarkan regionnya.
+EndemikDB adalah aplikasi Android berbasis Java yang dirancang untuk mengenalkan keanekaragaman hayati endemik di Indonesia. Aplikasi ini mengintegrasikan pemanggilan data dari REST API dan menyimpannya ke dalam basis data lokal (Offline-First).
 
-## ✨ Fitur Utama
+## ✨ Fitur
 
 * **Sinkronisasi API & Database Lokal:** Mengambil data JSON dari API dan menyimpannya secara otomatis ke dalam **Room Database** pada saat aplikasi pertama kali dibuka (Splash Screen).
 * **Kategorisasi Dinamis:** Memisahkan data menjadi dua kategori utama (Hewan dan Tumbuhan) menggunakan arsitektur Fragment.
@@ -22,14 +22,24 @@ EndemikDB adalah aplikasi Android berbasis Java yang dirancang untuk mengenalkan
 
 ## 📸 *Screenshots* Aplikasi
 
-> **Catatan:** Tambahkan *link* atau *path* gambar kamu di sini.
 
-| Home (Hewan) - Light Mode | Home (Tumbuhan) - Dark Mode | Halaman Detail | Halaman Favorit |
-| :---: | :---: | :---: | :---: |
-| <img src="link_gambar_hewan_light.png" width="200"/> | <img src="link_gambar_tumbuhan_dark.png" width="200"/> | <img src="link_gambar_detail.png" width="200"/> | <img src="link_gambar_favorit.png" width="200"/> |
+| Home (Hewan) - Dark Mode | Home (Tumbuhan) - Light Mode | Halaman Detail |
+| :---: | :---: | :---: |
+| <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/b074fc8e3c1b06258cd1df734606842d14bd2c77/foto/image.png" width="200"/> | <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/7193010608eb99578ee95dbf93f08f1a1961b442/foto/Screenshot%202026-06-22%20145944.png" width="200"/> | <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/b074fc8e3c1b06258cd1df734606842d14bd2c77/foto/foto2.jpeg" width="200"/> | 
 
-## 🚀 Cara Menjalankan Proyek
+| Halaman Favorit | Halaman Pencarian | Splash Screen | 
+| :---: | :---: | :---: | 
+| <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/7193010608eb99578ee95dbf93f08f1a1961b442/foto/foto4.jpeg" width="200"/> | <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/7193010608eb99578ee95dbf93f08f1a1961b442/foto/foto3.jpeg" width="200"/> | <img src="https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/f3bee29d8438c29c21a599c7c01204303ed04dd3/foto/Screenshot%202026-06-22%20150710.png" width="200"/> | 
 
-1. **Clone repositori ini** ke mesin lokal kamu:
-   ```bash
-   git clone [https://github.com/username_kamu/EndemikDB.git](https://github.com/username_kamu/EndemikDB.git)
+## 👨‍💻 Profil Pengembang
+
+<div align="center">
+  <img src=https://github.com/a2hkly/UAS_2410501005_HaykalNauvalSyafiq/blob/b4a878ea40c6cd9000f62ba453cb399da34fd67c/foto/foto.jpeg
+" width="150" style="border-radius: 50%; alt="Foto Haikal"/>
+  
+  **Haykal Nauval Syafiq**
+  
+  **NIM:** 2410501005
+  **Program Studi:** D3 Sistem Informasi  
+  **Universitas:** Universitas Pembangunan Nasional "Veteran" Jakarta
+</div>
